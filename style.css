@@ -1,6 +1,6 @@
 body
 {
-background-color: 	#516d91;
+background-color: 	#c93c3c;
 font-family: Verdana;
 font-size: 24px;
 color: rgb(0, 0, 0);
@@ -11,51 +11,51 @@ color: rgb(0, 0, 0);
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-bottom:50px;
-	background-color: #516d91;
+	background-color: #c93c3c;
 	margin: auto;
     width: 1000px;
 }
 #aktualnaData
 {
 	  text-align: center;
-    border: 3px solid #ff0606;
+    border: 3px solid #c93c3c;
 }
 #dniDoWydarzenia
 {
 	  text-align: center;
-    border: 3px solid #2b8d85;
+    border: 3px solid #c93c3c;
 }
 #godzinyDoWydarzenia
 {
 	  text-align: center;
-    border: 3px solid #2b8d85;
+    border: 3px solid #c93c3c;
 }
 #sekundyDoWydarzenia
 {
 	  text-align: center;
-    border: 3px solid #2b8d85;
+    border: 3px solid #c93c3c;
 }
 #minutyDoWydarzenia
 {
 	  text-align: center;
-    border: 3px solid #2b8d85;
+    border: 3px solid #c93c3c;
 }
 #doWydarzenia
 {
 	  text-align: center;
-    border: 3px solid #2b8d85;
+    border: 3px solid #c93c3c;
 }
 
 #dataWydarzenia
 {
 	  text-align: center;
-    border: 3px solid #808080;
+    border: 3px solid #c93c3c;
 }
 
 #description
 {
 	text-align: center;
-	border: 3px solid #808080;
+	border: 3px solid #c93c3c;
 }
 
 #footer
@@ -65,7 +65,7 @@ color: rgb(0, 0, 0);
 	padding: 10px;
 	font-size: 12px;
 	text-align: center;
-    border: 3px solid blue;
+    border: 3px solid #f09e9e;
 	letter-spacing: 3px;
 }
 #topBar
@@ -75,7 +75,7 @@ color: rgb(0, 0, 0);
 	padding: 10px;
 	font-size: 30px;
 	text-align: center;
-    border: 3px solid blue;
+    border: 3px solid #f09e9e;
 	letter-spacing: 3px;
 	margin-bottom: 50px;
 }
